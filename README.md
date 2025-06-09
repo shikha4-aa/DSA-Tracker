@@ -22,7 +22,10 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 2. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)  
    → Variable window, HashMap-based  
 3. [Number of Subarrays with Sum Equals K](https://leetcode.com/problems/binary-subarrays-with-sum/)  
-   → Sliding window + prefix sum trick
+   → Sliding window
+4. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)  
+   → Sliding window + hashmap/array
+   
 
 ## 🛠️ Problem Sources
 - [LeetCode](https://leetcode.com/u/shikha_04/)
