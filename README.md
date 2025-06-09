@@ -14,7 +14,7 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 | Week | Problems Solved | Topics              |
 |------|------------------|---------------------|
 | 1    | 12               | Arrays Basics       |
-| 2    | 3                | Sliding Window      |
+| 2    | 5                | Sliding Window      |
 
 ## 🧠 Sliding Window Problems Solved
 1. [Maximum Sum Subarray of Size K](https://leetcode.com/problems/max-consecutive-ones-iii/)  
