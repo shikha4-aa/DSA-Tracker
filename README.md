@@ -5,6 +5,7 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 ## 📂 Topics Covered
 - ✅ Arrays
 - ✅ Sliding Window
+- ✅ Binary Search
 - ⏳ Strings
 - ⏳ Trees
 - ⏳ LinkedList
