@@ -6,6 +6,9 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 - ✅ Arrays
 - ✅ Sliding Window
 - ✅ Binary Search
+- ✅ Stack
+- ✅ Queue
+- ✅ Linked list
 - ⏳ Strings
 - ⏳ Trees
 - ⏳ LinkedList
@@ -17,19 +20,14 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 | 1    | 12               | Arrays Basics       |
 | 2    | 5                | Sliding Window      |
 | 2    | 3               | Binary Search   |
+| 2    | 4               | Stack   |
+| 2    | 3               | Queue   |
+| 2    | 12               | Linked List   |
 
-## 🧠 Sliding Window Problems Solved
-1. [Maximum Sum Subarray of Size K](https://leetcode.com/problems/max-consecutive-ones-iii/)  
-   → Fixed window technique  
-2. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)  
-   → Variable window, HashMap-based  
-3. [Number of Subarrays with Sum Equals K](https://leetcode.com/problems/binary-subarrays-with-sum/)  
-   → Sliding window
-4. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)  
-   → Sliding window + hashmap/array
+
    
 
 ## 🛠️ Problem Sources
 - [LeetCode](https://leetcode.com/u/shikha_04/)
-- [GFG](#)
+- [GFG](https://www.geeksforgeeks.org/user/shikha_04/)
 
