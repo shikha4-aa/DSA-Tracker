@@ -1,3 +1,15 @@
+//Problem: https://leetcode.com/problems/rotate-array/
+
+/*🧠 Pattern Name: Array Rotation Using Reversal
+It’s a standard pattern for cyclic array operations. This idea of reversing subarrays is used in:
+Rotating arrays (this problem)
+Rotating matrices (via transpose + reverse)
+Shifting characters
+Deque or circular buffer problems
+
+You’ve got to recognize this is a rotation → so use reverse trick.
+ */
+
 class Solution {
     public void rotate(int[] nums, int k) {
         int n= nums.length;
