@@ -2,7 +2,7 @@
 import java.util.Stack;
 class Solution {
     static void reverse(Stack<Integer> s) {
-        // add your code herek
+        // add your code here
         if(!s.isEmpty()){
             int temp = s.pop();
             reverse(s);
