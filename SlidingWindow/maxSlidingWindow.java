@@ -3,8 +3,6 @@ import java.util.ArrayList;
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         ArrayList<Integer> arr= new ArrayList<>();
-
-        //brute force appraoch. gives TLE for large inputs
        
         int start = 0;
         int end = 0;
