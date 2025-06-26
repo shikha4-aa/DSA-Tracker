@@ -16,18 +16,17 @@ class Solution {
             patFreq[c - 'a']++;
         }
 
-        // Frequency array for current window in text
         int[] windowFreq = new int[26];
         for (int i = 0; i < n; i++) {
             // Add current character to window
             windowFreq[txt.charAt(i) - 'a']++;
 
-            // Remove character left out of window
+           
             if (i >= k) {
                 windowFreq[txt.charAt(i - k) - 'a']--;
             }
 
-            // If window size is k, compare
+          
             if (i >= k - 1 && Arrays.equals(patFreq, windowFreq)) {
                 count++;
             }
