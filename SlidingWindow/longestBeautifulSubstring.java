@@ -17,7 +17,7 @@ class Solution {
             } else{
                 len = (ch=='a')? 1: 0;
                 count = (ch=='a')? 1: 0;
-            }
+            } 
 
             if(count==5){
                 max= Math.max(max, len);
