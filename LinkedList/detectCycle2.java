@@ -10,7 +10,7 @@
  *     }
  * }
  */
-public class detectCycle2 {
+public class detectCycle2{
     public ListNode detectCycle(ListNode head) {
         if(head== null || head.next== null){
             return null;
