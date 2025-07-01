@@ -11,7 +11,7 @@ class Solution {
 
     public void backtrack(int index, int[] nums, ArrayList<Integer> current, List<List<Integer>> result){
         if(index == nums.length){
-        result.add(new ArrayList(current));
+        result.add(new ArrayList<>(current));
         return;
     }
 
