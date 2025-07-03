@@ -4,6 +4,7 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 
 ## 📂 Topics Covered
 - ✅ Arrays
+- ✅ Recursion/Backtracking
 - ✅ Sliding Window
 - ✅ Binary Search
 - ✅ Stack
@@ -23,6 +24,7 @@ This repository contains my daily progress in Data Structures and Algorithms usi
 | 2    | 4               | Stack   |
 | 2    | 3               | Queue   |
 | 2    | 12               | Linked List   |
+| 4    | 24               | Recursion   |
 
 
    
