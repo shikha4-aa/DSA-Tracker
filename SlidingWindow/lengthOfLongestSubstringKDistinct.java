@@ -26,6 +26,7 @@ class Main {
         
         return maxlen;
     }
+    // Example usage
     public static void main(String[] args) {
         int res = lengthOfLongestSubstringKDistinct("eceba", 2);
         
