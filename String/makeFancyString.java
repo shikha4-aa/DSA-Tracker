@@ -17,3 +17,5 @@ class Solution {
 
 // Link: https://leetcode.com/problems/make-the-string-great/
 // Problem: Remove adjacent duplicates in a string such that no character appears more than twice consecutively
+//// Example: Input: "leeetcode" Output: "leetcode"
+// Explanation: The string "leeetcode" has adjacent duplicates 'e' appearing three times consecut
