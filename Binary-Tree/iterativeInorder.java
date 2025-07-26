@@ -13,6 +13,9 @@
  *     }
  * }
  */
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Stack;
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
@@ -35,3 +38,6 @@ class Solution {
     }
 }
 // Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+// Problem: Given a binary tree, return the inorder traversal of its nodes' valuesively, so we remove the third 'e' to get "leetcode".
+ //Example: Input: [1,null,2,3] Output: [1,3,2]
+// Explanation: The inorder traversal of the binary tree is [1, 3, 2
