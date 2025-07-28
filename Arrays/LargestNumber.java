@@ -1,3 +1,5 @@
+// Given an integer array nums, return the largest element in the array.
+
 class Solution {
     public int largestElement(int[] nums) {
              int large = nums[0];
