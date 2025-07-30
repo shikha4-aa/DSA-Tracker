@@ -9,3 +9,4 @@ class Solution {
         return -1;
     }
 }
+//link: https://leetcode.com/problems/linear-search/
