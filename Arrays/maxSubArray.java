@@ -8,7 +8,7 @@ public class maxSubArray {
              sum+= nums[i];
             maxSum = Math.max(sum, maxSum);
 
-// kaden's logic
+// kadane's logic
             if(sum < 0){
                 sum = 0; // drop the neg
             }
