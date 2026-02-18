@@ -1,5 +1,5 @@
-class Solution {
-    public String makeFancyString(String s) {
+class makeFancyString {
+    public String makeFancyStringf(String s) {
         StringBuilder res = new StringBuilder();
 
         for(int i = 0; i< s.length(); i++){
